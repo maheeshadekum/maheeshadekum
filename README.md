@@ -46,11 +46,18 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="45" width="100%">
 
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=maheeshadekum&show_icons=true&locale=en" alt="maheeshadekum" height="175" />
-</p>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: 1px dotted black; text-align: left; vertical-align: middle;">
+      <img src="https://github-readme-stats.vercel.app/api?username=maheeshadekum&show_icons=true&locale=en" alt="maheeshadekum" height="175px"/>
+    </td>
+    <td style="border: 1px dotted black; text-align: left; vertical-align: middle;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheeshadekum&" alt="maheeshadekum" height="175px"/>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maheeshadekum&" alt="maheeshadekum" height="175" />
-</p>
+
+
+
 
